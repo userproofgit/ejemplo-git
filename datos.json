@@ -1,0 +1,9 @@
+{"contenido":[
+	{"tag": "saludo",
+		"patrones":["hola","que tal"],
+	},
+	{"tag": "despedida",
+                "patrones":["adios","nos vemos"],
+        }	
+ ]
+}
